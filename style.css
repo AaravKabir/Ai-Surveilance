@@ -1,0 +1,26 @@
+.copy_right_footer {
+    margin: 430px;
+    color: beige;
+    position: fixed
+}
+
+body {
+    background-size:cover;
+}
+
+.heading {
+    font-size:25px;
+    width: 20%;
+    margin: 0;
+}
+
+#number_of_objects,#start {
+    font-size: 25px;
+}
+
+canvas {
+    border: solid white 2px;
+    border-radius: 10px;
+    margin-top: 120px;
+    box-shadow: 5px 5px 5px white;
+}
